@@ -83,7 +83,7 @@ These 90 prompts are samples from our premium collections. Full packs include:
 
 🔧 **[AutoFlow — Free n8n Workflows](https://github.com/enzoemir1/autoflow-n8n-workflows)** — 8 AI automation templates for n8n
 
-🛠️ **[All Products](https://automatiabcn.gumroad.com)** — SaaS boilerplates, automation workflows, and more
+🛠️ **[All Products](https://automatiabcn.com)** — SaaS boilerplates, automation workflows, and more
 
 ---
 
